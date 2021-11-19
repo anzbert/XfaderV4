@@ -1,7 +1,5 @@
 # Low Friction USB Crossfader
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/200px-Placeholder_view_vector.svg.png)
-
 ## Background
 
 When I came up with this project I was playing with making old school HipHop beats in Ableton Live. Naturally, I needed some proper turntable scratches and vocal cuts to add some flavour to the mix. Since I didn't want to start an expensive record collection, my plan was to use digital samples only.
