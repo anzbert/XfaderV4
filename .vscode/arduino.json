@@ -1,0 +1,5 @@
+{
+    "sketch": "XfaderV4.ino",
+    "board": "arduino:avr:leonardo",
+    "programmer": "avrispmkii"
+}
