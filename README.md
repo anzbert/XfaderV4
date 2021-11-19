@@ -56,4 +56,6 @@ The code is basic Arduino C, since the functionality of the fader is very straig
 ### More Information
 
 [Information on DJ Faders](http://rasteri.com/wiki/Faders)
+
+
 [Info on making Midi Controllers, by the Nerd Musician](https://www.musiconerd.com/)
